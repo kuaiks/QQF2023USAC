@@ -1,2 +1,2 @@
-# QQF2023USAC
+# Qiskit Fall Fest 2023 - USAC 
 Material de apoyo para el taller de computación cuántica organizado por estudiantes de la USAC como parte del Qiskit Fall Fest 2023
