@@ -1,7 +1,0 @@
-.ipynb_checkpoints
-BV_algo.ipynb
-Cod_supdens.ipynb
-DJ_Algo.ipynb
-Retr_fase.ipynb
-Sim_Algo.ipynb
-Teletransp_cuant.ipynb
